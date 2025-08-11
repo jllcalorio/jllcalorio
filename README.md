@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @jllcalorio
-- 👀 I’m interested in data science, R, and cats.
-- 🌱 I’m currently learning the shiny package so I can create web apps.
-- 💞️ I’m looking to collaborate on making statistics easy for everyone by making customized R scripts.
-- 📫 Reach me here or via email jllcalorio@gmail.com.
-- 😄 Pronouns: I go by he/him.
-- ⚡ Fun fact: I can drink 6 cups of coffee but still able to sleep at night.
+- 👀 interested in data science, R, and cats
+- 🌱 currently learning the shiny package so I can create web apps
+- 💞️ looking to collaborate on making statistics easy for everyone by making customized R scripts
+- 📫 Reach me here or via email jllcalorio@gmail.com
+- 😄 he/him
+- ⚡ can drink 6 cups of coffee and still sleep soundly at night
 
 <!---
 jllcalorio/jllcalorio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
