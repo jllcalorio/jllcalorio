@@ -5,6 +5,7 @@
 - 📫 Reach me here or via email jllcalorio@gmail.com
 - 😄 he/him
 - ⚡ can drink 6 cups of coffee and still sleep soundly at night
+- 💬 I code today so I don't have to code again.
 
 <!---
 jllcalorio/jllcalorio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
